@@ -1,0 +1,2 @@
+.topbar{display:flex;justify-content:space-between;align-items:center;padding-bottom:24px;border-bottom:1px solid var(--line)}
+.brand{font-size:20px;font-weight:bold;letter-spacing:.12em}.tagline{font-size:11px;color:var(--muted);letter-spacing:.09em}

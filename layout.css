@@ -1,0 +1,6 @@
+body{background:var(--bg);color:var(--ink);font-family:Arial,sans-serif}
+.page{width:min(1180px,92%);margin:auto;padding:28px 0 40px}
+.dashboard{display:grid;grid-template-columns:1fr 1.25fr;gap:14px}
+.card{background:var(--card);border:1px solid var(--line);padding:25px}
+.details-card{grid-row:span 2}
+footer{border-top:1px solid var(--line);margin-top:28px;padding-top:18px;color:var(--muted);font-size:10px;text-transform:uppercase}

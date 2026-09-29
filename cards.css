@@ -1,0 +1,2 @@
+.empty-state{min-height:260px;display:flex;align-items:center;justify-content:center;flex-direction:column;text-align:center;color:var(--muted);padding:20px}
+.empty-mark{font-size:34px}.empty-state h2{font-size:17px;color:var(--ink)}.empty-state p{max-width:390px;line-height:1.6;font-size:13px}
